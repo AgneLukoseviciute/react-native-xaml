@@ -1,6 +1,6 @@
 {
   "type": "patch",
-  "comment": "q",
+  "comment": "codeQL fix to TypeCreator",
   "packageName": "react-native-xaml",
   "email": "agnel@microsoft.com",
   "dependentChangeType": "patch"
